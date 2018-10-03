@@ -1,0 +1,28 @@
+body {
+    background: rgb(89, 3, 26);
+    color: white;
+    text-align: left;
+    max-width: 500px;
+    padding: 0 0 0 450px;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+h6 {
+    background: white;
+    width: 90px;
+}
+h3 {
+    text-decoration: underline;
+    font-size: 23px;
+    
+}
+p {
+    font-family: Helvetica;
+    font-size: 14px;
+    }
+a {
+    
+}
